@@ -13,3 +13,7 @@ You can compare the staging area with the latest commit to check the changes add
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 To include exerimental features while continuing fixing and upgrading the main product.
+
+How do the diagrams help you visualize the branch structure?
+
+Make it more clearer and easy to understand
