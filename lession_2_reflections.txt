@@ -5,3 +5,7 @@ To start tracking of files and for version control of your project.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area only contains those files that need to be added to be repo but not to start tracking it yet.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can compare the staging area with the latest commit to check the changes added to the repo
